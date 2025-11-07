@@ -1,4 +1,4 @@
-# Delivery Framework – Developer-Centred BAU with Compliance Squad
+# Delivery Framework – Developer- New Project and Centred BAU after release with Compliance Squad
 
 This document captures the operating model for new-project delivery within a BAU cadence. It balances developer autonomy, stakeholder transparency, and embedded compliance.
 

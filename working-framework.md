@@ -28,8 +28,7 @@ flowchart LR
 graph TD
     PO(Product Owner)
     DL(Delivery Lead / Scrum Master)
-    TL-Tech(Tech Frontend)
-    TL-Back(Tech Backend)
+    TL-Tech(Tech Tasks)
     Dev(Developers)
     QA(QA / Test Automation)
     DevOps(DevOps / Platform)
@@ -39,12 +38,10 @@ graph TD
     PO -->|Backlog & Priorities| DL
     DL -->|Sprint Cadence| Dev
     TL-Tech --> Dev
-    TL-Back --> Dev
     QA --> Dev
     DevOps --> Dev
     Comp --> DL
     Comp --> TL-Tech
-    Comp --> TL-Back
     UX --> PO
     UX --> Dev
 

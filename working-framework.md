@@ -87,6 +87,7 @@ sequenceDiagram
 mindmap
   root((Artefacts))
     Phase 0
+      POC proof of concepts
       Governance Charter
       Architecture Sketches
       Working Agreements

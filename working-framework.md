@@ -127,8 +127,3 @@ mindmap
 
 ---
 
-**References**
-- `.docs/version-2026.01.00-plan.md`
-- `.docs/version-2026.01.00-tasks.md`
-- `frontend/`, `paia-backend-service/`, `nexus-case-stream/` repositories
-
